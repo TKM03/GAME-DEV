@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levels/MainMenu.unity
+    guid: 85f5ff58c98cb1e4d98f0611acdee548
+  - enabled: 1
+    path: Assets/Levels/Levels 1.unity
+    guid: c7400643c09126f4a98ef578f9031237
+  - enabled: 1
+    path: Assets/Levels/Levels 2.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Levels/Levels 3.unity
+    guid: cca3817b5fa8a384a81e94b2f2bff8d7
+  - enabled: 1
+    path: Assets/Levels/Levels 4.unity
+    guid: 920e37bd3381c5746bacea53f55b62d0
+  - enabled: 1
+    path: Assets/Levels/Levels 5.unity
+    guid: 5f83e363c0239414b98d283cdf53d82f
+  - enabled: 1
+    path: Assets/Levels/HeroUserManual.unity
+    guid: f9932cc447c2c0b489f7fe04352db427
+  - enabled: 1
+    path: Assets/Levels/Hero 1.unity
+    guid: 788d5afb4a2203b4e8118c9fc494a574
+  - enabled: 1
+    path: Assets/Levels/Rocket.unity
+    guid: edcf3b32200a8a6439a31e2ab85caf0e
+  m_configObjects: {}
